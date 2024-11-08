@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/Users/mac/Library/CloudStorage/OneDrive-HanoiUniversityofScienceandTechnology/Study/School/2024.1/Data Science/Project/Football_player_price_prediction/Scraping
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.45.3
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lz 
+Cflags: -I${includedir}

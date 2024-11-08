@@ -1,0 +1,404 @@
+{
+  "build": "py311hca03da5_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "six >=1.5"
+  ],
+  "extracted_package_dir": "/Users/mac/anaconda3/pkgs/python-dateutil-2.9.0post0-py311hca03da5_2",
+  "files": [
+    "lib/python3.11/site-packages/dateutil/__init__.py",
+    "lib/python3.11/site-packages/dateutil/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/__pycache__/_common.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/__pycache__/easter.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/__pycache__/relativedelta.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/__pycache__/rrule.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/__pycache__/tzwin.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/_common.py",
+    "lib/python3.11/site-packages/dateutil/_version.py",
+    "lib/python3.11/site-packages/dateutil/easter.py",
+    "lib/python3.11/site-packages/dateutil/parser/__init__.py",
+    "lib/python3.11/site-packages/dateutil/parser/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/parser/__pycache__/_parser.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/parser/__pycache__/isoparser.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/parser/_parser.py",
+    "lib/python3.11/site-packages/dateutil/parser/isoparser.py",
+    "lib/python3.11/site-packages/dateutil/relativedelta.py",
+    "lib/python3.11/site-packages/dateutil/rrule.py",
+    "lib/python3.11/site-packages/dateutil/tz/__init__.py",
+    "lib/python3.11/site-packages/dateutil/tz/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/tz/__pycache__/_common.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/tz/__pycache__/_factories.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/tz/__pycache__/tz.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/tz/__pycache__/win.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/tz/_common.py",
+    "lib/python3.11/site-packages/dateutil/tz/_factories.py",
+    "lib/python3.11/site-packages/dateutil/tz/tz.py",
+    "lib/python3.11/site-packages/dateutil/tz/win.py",
+    "lib/python3.11/site-packages/dateutil/tzwin.py",
+    "lib/python3.11/site-packages/dateutil/utils.py",
+    "lib/python3.11/site-packages/dateutil/zoneinfo/__init__.py",
+    "lib/python3.11/site-packages/dateutil/zoneinfo/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/zoneinfo/__pycache__/rebuild.cpython-311.pyc",
+    "lib/python3.11/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz",
+    "lib/python3.11/site-packages/dateutil/zoneinfo/rebuild.py",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/METADATA",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/RECORD",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/zip-safe"
+  ],
+  "fn": "python-dateutil-2.9.0post0-py311hca03da5_2.conda",
+  "legacy_bz2_md5": "843568c76b6b9384635b7fca74c79792",
+  "license": "BSD-3-Clause and Apache-2.0",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/mac/anaconda3/pkgs/python-dateutil-2.9.0post0-py311hca03da5_2",
+    "type": 1
+  },
+  "md5": "6c2442c523b62b964ab1b701912e0c53",
+  "name": "python-dateutil",
+  "package_tarball_full_path": "/Users/mac/anaconda3/pkgs/python-dateutil-2.9.0post0-py311hca03da5_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "32a6a6ebb58ef4891399417223aeaf4ba2284974e9f46dfcf0369d1f62c230b6",
+        "sha256_in_prefix": "32a6a6ebb58ef4891399417223aeaf4ba2284974e9f46dfcf0369d1f62c230b6",
+        "size_in_bytes": 620
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "025d832875e90f2a0c37de4eaa1e761c398a4c347778c5ad2fdb990930be915e",
+        "sha256_in_prefix": "025d832875e90f2a0c37de4eaa1e761c398a4c347778c5ad2fdb990930be915e",
+        "size_in_bytes": 1357
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__pycache__/_common.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "76ef5f38fcb2ed5107959d5e4fd1b8289b522ed550a7cfe74a051bf58c335ca8",
+        "sha256_in_prefix": "76ef5f38fcb2ed5107959d5e4fd1b8289b522ed550a7cfe74a051bf58c335ca8",
+        "size_in_bytes": 1973
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5fcdcde777ad0182afb0a48850a17b7b5def1220274fbc907f016c7103506830",
+        "sha256_in_prefix": "5fcdcde777ad0182afb0a48850a17b7b5def1220274fbc907f016c7103506830",
+        "size_in_bytes": 274
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__pycache__/easter.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fadc7a18107c037fa99c9bb9f0c68cc04ecdaed0bbcd0409e5fb7512d3cb2225",
+        "sha256_in_prefix": "fadc7a18107c037fa99c9bb9f0c68cc04ecdaed0bbcd0409e5fb7512d3cb2225",
+        "size_in_bytes": 2899
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__pycache__/relativedelta.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2b88361146f9a580e6f0f59c17adf2ac33bc70cc9965b3f75d1e7c7cf1c00c01",
+        "sha256_in_prefix": "2b88361146f9a580e6f0f59c17adf2ac33bc70cc9965b3f75d1e7c7cf1c00c01",
+        "size_in_bytes": 26524
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__pycache__/rrule.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "71f6ece62ed466ad1292cbfe32ed3eefd6dc277aa7b71c92904dd410ebdc8c37",
+        "sha256_in_prefix": "71f6ece62ed466ad1292cbfe32ed3eefd6dc277aa7b71c92904dd410ebdc8c37",
+        "size_in_bytes": 74022
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__pycache__/tzwin.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2a2450861fcc9ee5b3d386b2510ed22e666bbe8f64c0a2d04f9865ea2e3cbc32",
+        "sha256_in_prefix": "2a2450861fcc9ee5b3d386b2510ed22e666bbe8f64c0a2d04f9865ea2e3cbc32",
+        "size_in_bytes": 186
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3945cd16d5d3b0c2290e4dd2e90601ba6dc07d37f98388103131109985adf77e",
+        "sha256_in_prefix": "3945cd16d5d3b0c2290e4dd2e90601ba6dc07d37f98388103131109985adf77e",
+        "size_in_bytes": 2655
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/_common.py",
+        "path_type": "hardlink",
+        "sha256": "efbc34cb2b64af19586d29fefa50d53d431a6d45d147d237941bffbd0454a946",
+        "sha256_in_prefix": "efbc34cb2b64af19586d29fefa50d53d431a6d45d147d237941bffbd0454a946",
+        "size_in_bytes": 932
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/_version.py",
+        "path_type": "hardlink",
+        "sha256": "055d37d4ec430c09b2e7c9de520e72caa2e42daa88c3b89b2bd02cde388c89bd",
+        "sha256_in_prefix": "055d37d4ec430c09b2e7c9de520e72caa2e42daa88c3b89b2bd02cde388c89bd",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/easter.py",
+        "path_type": "hardlink",
+        "sha256": "772062fa52af8a61f5bbf93aa7b6742492bbd9086a56d541b2a072be910f2af7",
+        "sha256_in_prefix": "772062fa52af8a61f5bbf93aa7b6742492bbd9086a56d541b2a072be910f2af7",
+        "size_in_bytes": 2678
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/parser/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c1693a185bb14e98e8820086b6091c789a2d8b8a558e5e3f7c7417a4d39a4988",
+        "sha256_in_prefix": "c1693a185bb14e98e8820086b6091c789a2d8b8a558e5e3f7c7417a4d39a4988",
+        "size_in_bytes": 1766
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/parser/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2fad31ccacaee5bd46ab16690e48331194b4490174e194edbfcc1730d9a88a3e",
+        "sha256_in_prefix": "2fad31ccacaee5bd46ab16690e48331194b4490174e194edbfcc1730d9a88a3e",
+        "size_in_bytes": 3111
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/parser/__pycache__/_parser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b8ba5131e335f28b0df1597f226490bf55184a483028fd89c20f1be9f00d096d",
+        "sha256_in_prefix": "b8ba5131e335f28b0df1597f226490bf55184a483028fd89c20f1be9f00d096d",
+        "size_in_bytes": 69762
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/parser/__pycache__/isoparser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "def518c8cd47e824954766db82d375a32257b135daa0b23f4bee6f2b7e7820bf",
+        "sha256_in_prefix": "def518c8cd47e824954766db82d375a32257b135daa0b23f4bee6f2b7e7820bf",
+        "size_in_bytes": 17318
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/parser/_parser.py",
+        "path_type": "hardlink",
+        "sha256": "ee494377289c92c401fd7825fb7500981c33098a2bd40219aa4948713e9d1fff",
+        "sha256_in_prefix": "ee494377289c92c401fd7825fb7500981c33098a2bd40219aa4948713e9d1fff",
+        "size_in_bytes": 58796
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/parser/isoparser.py",
+        "path_type": "hardlink",
+        "sha256": "f05cbdf7d6e709dd5fad274e62e3ab6967c94ed7795bba90e7537036e1ff8573",
+        "sha256_in_prefix": "f05cbdf7d6e709dd5fad274e62e3ab6967c94ed7795bba90e7537036e1ff8573",
+        "size_in_bytes": 13233
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/relativedelta.py",
+        "path_type": "hardlink",
+        "sha256": "218fe6825323a196d87ebbe5a1363671ed366a25633c892265faa03536517ee0",
+        "sha256_in_prefix": "218fe6825323a196d87ebbe5a1363671ed366a25633c892265faa03536517ee0",
+        "size_in_bytes": 24903
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/rrule.py",
+        "path_type": "hardlink",
+        "sha256": "289cca95a09dd6311bbb8037f1996db256a801487d9d26dd6ce15d8e9ef429ec",
+        "sha256_in_prefix": "289cca95a09dd6311bbb8037f1996db256a801487d9d26dd6ce15d8e9ef429ec",
+        "size_in_bytes": 66557
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "17e333d77bfa8d8b1e92541ff537bd27a9f370b0e6ab8ee03916bad4adf9fc50",
+        "sha256_in_prefix": "17e333d77bfa8d8b1e92541ff537bd27a9f370b0e6ab8ee03916bad4adf9fc50",
+        "size_in_bytes": 444
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff9ab97b5a5421d1a17dabafadb7970d5706547410f65731690e2fb877114e91",
+        "sha256_in_prefix": "ff9ab97b5a5421d1a17dabafadb7970d5706547410f65731690e2fb877114e91",
+        "size_in_bytes": 780
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/__pycache__/_common.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "53a07c273288283feac02f3f0105a05d2b6a88c59fed473a84836434877b3459",
+        "sha256_in_prefix": "53a07c273288283feac02f3f0105a05d2b6a88c59fed473a84836434877b3459",
+        "size_in_bytes": 15218
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/__pycache__/_factories.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8d15e09705f0ccb90bd79eb9d5e0c0b29d7a1d1f2a22ed7559fa0f3f0728dcf8",
+        "sha256_in_prefix": "8d15e09705f0ccb90bd79eb9d5e0c0b29d7a1d1f2a22ed7559fa0f3f0728dcf8",
+        "size_in_bytes": 5177
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/__pycache__/tz.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "af64f26efaa5de9a002c308313b15633286d107e895613b2492df7fda7a8785c",
+        "sha256_in_prefix": "af64f26efaa5de9a002c308313b15633286d107e895613b2492df7fda7a8785c",
+        "size_in_bytes": 70456
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/__pycache__/win.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c3b1fc0a2a35703ab624176f35c618fbffc40dbbd87fde1d4c89b52a5196b072",
+        "sha256_in_prefix": "c3b1fc0a2a35703ab624176f35c618fbffc40dbbd87fde1d4c89b52a5196b072",
+        "size_in_bytes": 18366
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/_common.py",
+        "path_type": "hardlink",
+        "sha256": "720cc34c036c397bc473ce9c605efb12c962b9269bf0fbb0a6c979f9b5f7fd2e",
+        "sha256_in_prefix": "720cc34c036c397bc473ce9c605efb12c962b9269bf0fbb0a6c979f9b5f7fd2e",
+        "size_in_bytes": 12977
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/_factories.py",
+        "path_type": "hardlink",
+        "sha256": "ba76fa5d0357acf32f7a4b13094f8083c8e6559b384a88e83d47001e95a7aef5",
+        "sha256_in_prefix": "ba76fa5d0357acf32f7a4b13094f8083c8e6559b384a88e83d47001e95a7aef5",
+        "size_in_bytes": 2569
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/tz.py",
+        "path_type": "hardlink",
+        "sha256": "1149c474c7de4e15e263a978b21f7205a6d9eb7fcf3b3cb4d734ac87db619f5a",
+        "sha256_in_prefix": "1149c474c7de4e15e263a978b21f7205a6d9eb7fcf3b3cb4d734ac87db619f5a",
+        "size_in_bytes": 62855
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tz/win.py",
+        "path_type": "hardlink",
+        "sha256": "c49b335a04b0135c4fc7f1c98f86647a9cae902fe1372d35e9631c5e16d1681f",
+        "sha256_in_prefix": "c49b335a04b0135c4fc7f1c98f86647a9cae902fe1372d35e9631c5e16d1681f",
+        "size_in_bytes": 12935
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/tzwin.py",
+        "path_type": "hardlink",
+        "sha256": "ec0af8bdd4029e733498a4773148db20ab19ac155f1e0770b0965cfe619845ec",
+        "sha256_in_prefix": "ec0af8bdd4029e733498a4773148db20ab19ac155f1e0770b0965cfe619845ec",
+        "size_in_bytes": 59
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/utils.py",
+        "path_type": "hardlink",
+        "sha256": "74a09c844c3c78e6e2d25a064f1f75ba70719bfed41a5537bff16314c76ac183",
+        "sha256_in_prefix": "74a09c844c3c78e6e2d25a064f1f75ba70719bfed41a5537bff16314c76ac183",
+        "size_in_bytes": 1965
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/zoneinfo/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "298834a6d842323729e4c5d21220499f79cc8d978d65abfbae5270e7eb73d52e",
+        "sha256_in_prefix": "298834a6d842323729e4c5d21220499f79cc8d978d65abfbae5270e7eb73d52e",
+        "size_in_bytes": 5889
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/zoneinfo/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "690f8f2bc5b3b4dffeb412746b0c98c8028751d117bbb8801e2b81515e56ec9d",
+        "sha256_in_prefix": "690f8f2bc5b3b4dffeb412746b0c98c8028751d117bbb8801e2b81515e56ec9d",
+        "size_in_bytes": 8432
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/zoneinfo/__pycache__/rebuild.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ec8e76cf87c8e2ff07d7007321c772008aba42ff35b0b5a1863e9bef770f2a36",
+        "sha256_in_prefix": "ec8e76cf87c8e2ff07d7007321c772008aba42ff35b0b5a1863e9bef770f2a36",
+        "size_in_bytes": 4602
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz",
+        "path_type": "hardlink",
+        "sha256": "d3ea52e7b6e968de0d884df1288193596fa95b803db4f92a18279a7398004475",
+        "sha256_in_prefix": "d3ea52e7b6e968de0d884df1288193596fa95b803db4f92a18279a7398004475",
+        "size_in_bytes": 156400
+      },
+      {
+        "_path": "lib/python3.11/site-packages/dateutil/zoneinfo/rebuild.py",
+        "path_type": "hardlink",
+        "sha256": "322a98cc2207bcd6cc1fe2dd4582effb84f410803b8432ade462d1d084532dd2",
+        "sha256_in_prefix": "322a98cc2207bcd6cc1fe2dd4582effb84f410803b8432ade462d1d084532dd2",
+        "size_in_bytes": 2392
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "ba00f51a0d92823b5a1cde27d8b5b9d2321e67ed8da9bc163eff96d5e17e577e",
+        "sha256_in_prefix": "ba00f51a0d92823b5a1cde27d8b5b9d2321e67ed8da9bc163eff96d5e17e577e",
+        "size_in_bytes": 2889
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a9d436da322be808332f98d88325998e87cb693a678a9969feb4cfad729a6e93",
+        "sha256_in_prefix": "a9d436da322be808332f98d88325998e87cb693a678a9969feb4cfad729a6e93",
+        "size_in_bytes": 8354
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c2a955203511ce4b99edb14b746ad2d1f9b0d23168dd7fccc55dc9f0589d4224",
+        "sha256_in_prefix": "c2a955203511ce4b99edb14b746ad2d1f9b0d23168dd7fccc55dc9f0589d4224",
+        "size_in_bytes": 3337
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0d96a30f8a702d6b9eef40807dced86b14f5c0b51c88d06f37f4d372f5e996d1",
+        "sha256_in_prefix": "0d96a30f8a702d6b9eef40807dced86b14f5c0b51c88d06f37f4d372f5e996d1",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "42111dbb75076856c4a8130230a0f6e8dfe32f7b7bdffbf7d680d115de552e77",
+        "sha256_in_prefix": "42111dbb75076856c4a8130230a0f6e8dfe32f7b7bdffbf7d680d115de552e77",
+        "size_in_bytes": 146
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e2d8dd5a485166f17b2c0fc161efcbf60076c3fa766becf9cba02b8da464a2df",
+        "sha256_in_prefix": "e2d8dd5a485166f17b2c0fc161efcbf60076c3fa766becf9cba02b8da464a2df",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_dateutil-2.9.0.post0.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "python-dateutil",
+  "sha256": "f83d9567fad42c90cd3def7a97be813066d80adb70024dff32dd056e2b0843cb",
+  "size": 333290,
+  "subdir": "osx-arm64",
+  "timestamp": 1716495881101,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python-dateutil-2.9.0post0-py311hca03da5_2.conda",
+  "version": "2.9.0post0"
+}

@@ -1,0 +1,13 @@
+prefix=/Users/mac/Library/CloudStorage/OneDrive-HanoiUniversityofScienceandTechnology/Study/School/2024.1/Data Science/Project/Football_player_price_prediction/Scraping
+exec_prefix=/Users/mac/Library/CloudStorage/OneDrive-HanoiUniversityofScienceandTechnology/Study/School/2024.1/Data Science/Project/Football_player_price_prediction/Scraping
+libdir=/Users/mac/Library/CloudStorage/OneDrive-HanoiUniversityofScienceandTechnology/Study/School/2024.1/Data Science/Project/Football_player_price_prediction/Scraping/lib
+sharedlibdir=/Users/mac/Library/CloudStorage/OneDrive-HanoiUniversityofScienceandTechnology/Study/School/2024.1/Data Science/Project/Football_player_price_prediction/Scraping/lib
+includedir=/Users/mac/Library/CloudStorage/OneDrive-HanoiUniversityofScienceandTechnology/Study/School/2024.1/Data Science/Project/Football_player_price_prediction/Scraping/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

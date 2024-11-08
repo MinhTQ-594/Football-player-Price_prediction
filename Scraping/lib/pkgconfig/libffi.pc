@@ -1,0 +1,11 @@
+prefix=/Users/mac/Library/CloudStorage/OneDrive-HanoiUniversityofScienceandTechnology/Study/School/2024.1/Data Science/Project/Football_player_price_prediction/Scraping
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/mac/Library/CloudStorage/OneDrive-HanoiUniversityofScienceandTechnology/Study/School/2024.1/Data Science/Project/Football_player_price_prediction/Scraping/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
